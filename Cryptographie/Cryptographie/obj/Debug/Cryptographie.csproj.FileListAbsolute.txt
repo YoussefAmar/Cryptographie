@@ -1,0 +1,10 @@
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Cryptographie\Cryptographie\bin\Debug\Cryptographie.exe.config
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Cryptographie\Cryptographie\bin\Debug\Cryptographie.exe
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Cryptographie\Cryptographie\bin\Debug\Cryptographie.pdb
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Cryptographie\Cryptographie\obj\Debug\Cryptographie.csprojAssemblyReference.cache
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Cryptographie\Cryptographie\obj\Debug\Cryptographie.FEncryptage.resources
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Cryptographie\Cryptographie\obj\Debug\Cryptographie.Properties.Resources.resources
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Cryptographie\Cryptographie\obj\Debug\Cryptographie.csproj.GenerateResource.cache
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Cryptographie\Cryptographie\obj\Debug\Cryptographie.csproj.CoreCompileInputs.cache
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Cryptographie\Cryptographie\obj\Debug\Cryptographie.exe
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Cryptographie\Cryptographie\obj\Debug\Cryptographie.pdb
